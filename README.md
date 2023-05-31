@@ -4,4 +4,4 @@
 
 <h1 align="center">Hi 👋, I'm Narayanan</h1>
 <h3 align="center">A passionate Cyber Security Researcher & Penetration Tester from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/narayanan-pepul/Read-Me/main/Sec2.webp">
