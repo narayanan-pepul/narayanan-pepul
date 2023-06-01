@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/narayanan-pepul/Read-Me/main/Sec2.webp">
 
 🚀 I am a Narayanan
-❤ I love doing **Bug Bounty** For Hobby 🚀 <br>
+❤ I love doing **Hacking** For Hobby 🚀 <br>
 💻 I am Addicted to **Coffee** 💎<br>
 🔭 I’m currently working on **Pepul**<br>
 ❤ In general; I am a **Technology Geek**  🇨🇾<br>
